@@ -62,7 +62,7 @@ Importing in Eclipse
 These instructions were tested on Eclipse IDE for Java EE Developers Luna SR2. You can get it from http://eclipse.org/downloads/
 
 To checkout and run the project in Eclipse, do:
-- File -> Import...
+- File -> Import..
 - Check out Maven Projects from SCM
 - Choose Git from SCM menu
   - If you do not see "Git" in the SCM menu, click "Find more SCM connectors in the m2e Marketplace" and install "m2e-egit". Restart Eclipse and start over.
