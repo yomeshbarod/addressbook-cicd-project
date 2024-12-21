@@ -6,7 +6,7 @@ this is our new chnage this sdassaasasdasdasaasd
 testassdad
 this is my first upta
 this is my final repo adsada
-this is the upd
+this is the update
 ==================== 
 ddooiouo
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
